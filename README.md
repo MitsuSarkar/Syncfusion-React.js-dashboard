@@ -1,5 +1,6 @@
 # Admin Dashboard 
 
+https://mitsusarkar.github.io/Syncfusion-React.js-dashboard/ 
 This is a comprehensive guide to the Admin Dashboard created in ReactJS using Syncfusion. The Admin Dashboard provides an intuitive interface for managing an eCommerce platform. It includes various features and pages to facilitate effective administration and analysis of the platform.
 
 # Features
