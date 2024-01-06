@@ -1,8 +1,9 @@
-Admin Dashboard 
+# Admin Dashboard 
 
 This is a comprehensive guide to the Admin Dashboard created in ReactJS using Syncfusion. The Admin Dashboard provides an intuitive interface for managing an eCommerce platform. It includes various features and pages to facilitate effective administration and analysis of the platform.
 
-Features
+# Features
+
 The Admin Dashboard includes the following features:
 ![image](https://github.com/MitsuSarkar/Syncfusion-React.js-dashboard/assets/137225605/08646006-cffe-4134-95a4-3246ccfd447a)
 
@@ -31,7 +32,7 @@ Employees: This page allows you to manage employee information, including their 
 ![image](https://github.com/MitsuSarkar/Syncfusion-React.js-dashboard/assets/137225605/86743699-cad8-4e60-b1a9-03962c4a9926)
 
 
-Additional Apps
+# Additional Apps
 In addition to the core functionalities mentioned above, the Admin Dashboard also incorporates various apps to enhance user experience and productivity:
 
 Calendar: The Calendar app provides a visual representation of important events and deadlines, enabling efficient scheduling and task management.
@@ -54,7 +55,7 @@ Color Picker: The Color Picker app facilitates the selection of colors from a wi
 ![image](https://github.com/MitsuSarkar/Syncfusion-React.js-dashboard/assets/137225605/8827d858-a349-412c-8021-10427e527643)
 
 
-Graphs and Charts
+# Graphs and Charts
 To provide insightful data visualization, the Admin Dashboard includes different types of graphs and charts:
 
 Line Chart: This chart displays trends and patterns over time, allowing you to track changes in various metrics.
@@ -95,7 +96,7 @@ Stacked Chart: This chart type represents data as stacked bars, allowing you to 
 
 ![image](https://github.com/MitsuSarkar/Syncfusion-React.js-dashboard/assets/137225605/cd5b4af2-6176-413e-ab60-3d85299dd644)
 
-Dark and Light Mode
+# Dark and Light Mode
 ![image](https://github.com/MitsuSarkar/Syncfusion-React.js-dashboard/assets/137225605/90444a9d-e049-4ffd-9a90-8a8b162a6d4b)
 
 The Admin Dashboard offers a Dark and Light mode functionality, allowing users to choose their preferred visual theme. This feature provides a personalized and comfortable viewing experience. Switching between the two modes is easy and can be done with a single click.
@@ -108,7 +109,7 @@ To switch back to Light Mode, click on the Light Mode toggle button in the same 
 The Admin Dashboard's Dark and Light mode functionality ensures a visually pleasing experience for users with different preferences and lighting conditions.
 
 
-Getting Started
+# Getting Started
 To get started with the Admin Dashboard, follow these steps:
 
 Clone the repository to your local machine.
@@ -121,5 +122,5 @@ Start the development server using the command npm start.
 
 Access the Admin Dashboard in your web browser by navigating to the provided URL.
 
-Conclusion
+# Conclusion
 The Admin Dashboard created in ReactJS using Syncfusion provides a powerful and user-friendly interface for managing an eCommerce platform. With its comprehensive features, additional apps, and various types of graphs and charts, it enables efficient administration, data analysis, and visualization. Feel free to explore the different pages, functionalities, and apps to effectively manage and optimize your eCommerce platform.
